@@ -1,0 +1,134 @@
+{
+  "uid" : "f743e036999c7565",
+  "name" : "test_icloud_navigation_serviceconfig",
+  "fullName" : "icloud.navigation.test_serviceconfig#test_icloud_navigation_serviceconfig",
+  "historyId" : "9d0828c09afe7733d15454d5e601a8b7",
+  "time" : {
+    "start" : 1648176373576,
+    "stop" : 1648176376703,
+    "duration" : 3127
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "gettoken",
+    "time" : {
+      "start" : 1648176372104,
+      "stop" : 1648176373572,
+      "duration" : 1468
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "serviceconfig"
+  }, {
+    "name" : "tag",
+    "value" : "one"
+  }, {
+    "name" : "parentSuite",
+    "value" : "icloud.navigation"
+  }, {
+    "name" : "suite",
+    "value" : "test_serviceconfig"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-UCK97NP"
+  }, {
+    "name" : "thread",
+    "value" : "94420-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "icloud.navigation.test_serviceconfig"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 6,
+        "unknown" : 0,
+        "total" : 6
+      },
+      "items" : [ {
+        "uid" : "3c7a0c2105fbba04",
+        "reportUrl" : "http://localhost:8080/job/%E6%8E%A5%E5%8F%A3%E8%87%AA%E5%8A%A8%E5%8C%96/13/allure/#testresult/3c7a0c2105fbba04",
+        "status" : "passed",
+        "time" : {
+          "start" : 1648175570818,
+          "stop" : 1648175572206,
+          "duration" : 1388
+        }
+      }, {
+        "uid" : "1d9cbf8271e9378",
+        "reportUrl" : "http://localhost:8080/job/%E6%8E%A5%E5%8F%A3%E8%87%AA%E5%8A%A8%E5%8C%96/12/allure/#testresult/1d9cbf8271e9378",
+        "status" : "passed",
+        "time" : {
+          "start" : 1648175467270,
+          "stop" : 1648175467680,
+          "duration" : 410
+        }
+      }, {
+        "uid" : "369f1f978cf2d743",
+        "reportUrl" : "http://localhost:8080/job/%E6%8E%A5%E5%8F%A3%E8%87%AA%E5%8A%A8%E5%8C%96/11/allure/#testresult/369f1f978cf2d743",
+        "status" : "passed",
+        "time" : {
+          "start" : 1648175216953,
+          "stop" : 1648175218643,
+          "duration" : 1690
+        }
+      }, {
+        "uid" : "1ab8e9ef077c5618",
+        "reportUrl" : "http://localhost:8080/job/%E6%8E%A5%E5%8F%A3%E8%87%AA%E5%8A%A8%E5%8C%96/10/allure/#testresult/1ab8e9ef077c5618",
+        "status" : "passed",
+        "time" : {
+          "start" : 1648117019157,
+          "stop" : 1648117020692,
+          "duration" : 1535
+        }
+      }, {
+        "uid" : "b428395a4aa2f591",
+        "reportUrl" : "http://localhost:8080/job/%E6%8E%A5%E5%8F%A3%E8%87%AA%E5%8A%A8%E5%8C%96/9/allure/#testresult/b428395a4aa2f591",
+        "status" : "passed",
+        "time" : {
+          "start" : 1648116405319,
+          "stop" : 1648116405521,
+          "duration" : 202
+        }
+      } ]
+    },
+    "tags" : [ "one" ]
+  },
+  "source" : "f743e036999c7565.json",
+  "parameterValues" : [ ]
+}

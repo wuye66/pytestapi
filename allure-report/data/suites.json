@@ -1,0 +1,55 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "icloud.navigation",
+    "children" : [ {
+      "name" : "test_serviceconfig",
+      "children" : [ {
+        "name" : "test_icloud_navigation_serviceconfig",
+        "uid" : "f743e036999c7565",
+        "parentUid" : "0345068a148874f542429f511afb67cb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1648176373576,
+          "stop" : 1648176376703,
+          "duration" : 3127
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0345068a148874f542429f511afb67cb"
+    } ],
+    "uid" : "9fb344d12396ca3c026ec706593d840b"
+  }, {
+    "name" : "passport",
+    "children" : [ {
+      "name" : "test_login",
+      "children" : [ {
+        "name" : "test_passport_login",
+        "uid" : "bfe634bff97f541d",
+        "parentUid" : "3a5f29ac078107a4e104500c9f765492",
+        "status" : "passed",
+        "time" : {
+          "start" : 1648176376706,
+          "stop" : 1648176376876,
+          "duration" : 170
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3a5f29ac078107a4e104500c9f765492"
+    } ],
+    "uid" : "7fb3fd3d304b2c88b7a7174fbc65243d"
+  } ]
+}

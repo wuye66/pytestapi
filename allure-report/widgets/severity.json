@@ -1,0 +1,21 @@
+[ {
+  "uid" : "f743e036999c7565",
+  "name" : "test_icloud_navigation_serviceconfig",
+  "time" : {
+    "start" : 1648176373576,
+    "stop" : 1648176376703,
+    "duration" : 3127
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bfe634bff97f541d",
+  "name" : "test_passport_login",
+  "time" : {
+    "start" : 1648176376706,
+    "stop" : 1648176376876,
+    "duration" : 170
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

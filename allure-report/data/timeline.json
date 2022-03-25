@@ -1,0 +1,47 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-UCK97NP",
+    "children" : [ {
+      "name" : "94420-MainThread",
+      "children" : [ {
+        "name" : "test_passport_login",
+        "uid" : "bfe634bff97f541d",
+        "parentUid" : "94047b12ad58154797acd74fec2d85e1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1648176376706,
+          "stop" : 1648176376876,
+          "duration" : 170
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_icloud_navigation_serviceconfig",
+        "uid" : "f743e036999c7565",
+        "parentUid" : "94047b12ad58154797acd74fec2d85e1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1648176373576,
+          "stop" : 1648176376703,
+          "duration" : 3127
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "94047b12ad58154797acd74fec2d85e1"
+    } ],
+    "uid" : "f60b62441154e4c07f522b2b81c807e7"
+  } ]
+}
